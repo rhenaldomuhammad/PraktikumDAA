@@ -1,0 +1,19 @@
+Contoh 3
+Algoritma untuk konversi suhu C ke R, F, dan K
+1.	Masukkan Integer suhu Celcius (C), Fahrenheit (F), Reamur (R), dan Kelvin (K)
+2.	Lalu input nilai C
+3.	Kemudian Jumlahkan dengan masing-masing rumus
+4.	F = 9/5*C+32
+5.	R = 4/5*C
+6.	K = C+273
+7.	Lalu Cetak hasil dari semua konversi tersebut
+
+Pseudocode 
+Program konversi_suhu
+deklarasi
+var c,f,r,k;
+input c
+f=9/5*C+32
+r=4/5*C
+k=C+273
+print f,r,k
